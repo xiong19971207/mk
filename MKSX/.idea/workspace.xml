@@ -26,6 +26,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="IgnoreLang" />
     <property name="last_opened_file_path" value="F:/mypython" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -72,7 +73,7 @@
       <updated>1587542098203</updated>
       <workItem from="1587542102245" duration="2666000" />
       <workItem from="1587550289042" duration="3133000" />
-      <workItem from="1587601823171" duration="338000" />
+      <workItem from="1587601823171" duration="1153000" />
     </task>
     <servers />
   </component>
